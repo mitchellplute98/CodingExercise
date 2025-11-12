@@ -1,0 +1,25 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# NuGet packages
+packages/
+
+# Environment files
+.env
+appsettings.local.json
+
+# Test results
+TestResults/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
